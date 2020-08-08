@@ -27,13 +27,7 @@
 			"dependsOn": []
 		}
 	},
-	"hosting": {
-		"amplifyhosting": {
-			"service": "amplifyhosting",
-			"providerPlugin": "awscloudformation",
-			"type": "manual"
-		}
-	},
+	"hosting": {},
 	"predictions": {
 		"interpretText": {
 			"providerPlugin": "awscloudformation",

@@ -1,6 +1,6 @@
 {
   "providers": ["awscloudformation"],
-  "projectName": "quizit3",
+  "projectName": "kwizz-console",
   "version": "3.0",
   "frontend": "javascript",
   "javascript": {
