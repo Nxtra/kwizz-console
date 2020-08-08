@@ -1,23 +1,19 @@
 {
-    "dev": {
+    "master": {
         "awscloudformation": {
-            "AuthRoleName": "amplify-kwizz-console-dev-131741-authRole",
-            "UnauthRoleArn": "arn:aws:iam::262262740757:role/amplify-kwizz-console-dev-131741-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::262262740757:role/amplify-kwizz-console-dev-131741-authRole",
+            "AuthRoleName": "amplify-kwizz-console-master-112423-authRole",
+            "UnauthRoleArn": "arn:aws:iam::262262740757:role/amplify-kwizz-console-master-112423-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::262262740757:role/amplify-kwizz-console-master-112423-authRole",
             "Region": "eu-west-1",
-            "DeploymentBucketName": "amplify-kwizz-console-dev-131741-deployment",
-            "UnauthRoleName": "amplify-kwizz-console-dev-131741-unauthRole",
-            "StackName": "amplify-kwizz-console-dev-131741",
-            "StackId": "arn:aws:cloudformation:eu-west-1:262262740757:stack/amplify-kwizz-console-dev-131741/c81fe0e0-d968-11ea-92ba-0236eb75a142",
+            "DeploymentBucketName": "amplify-kwizz-console-master-112423-deployment",
+            "UnauthRoleName": "amplify-kwizz-console-master-112423-unauthRole",
+            "StackName": "amplify-kwizz-console-master-112423",
+            "StackId": "arn:aws:cloudformation:eu-west-1:262262740757:stack/amplify-kwizz-console-master-112423/b6537e20-d969-11ea-a3b0-02162fdbb6ee",
             "AmplifyAppId": "dif7ppb4l6za4"
         },
         "categories": {
             "auth": {
                 "quizit3df1a9e52df1a9e52": {}
-            },
-            "function": {
-                "addData": {},
-                "S3Trigger739d230f": {}
             }
         }
     }
